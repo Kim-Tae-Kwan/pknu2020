@@ -1,0 +1,10 @@
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.Model\bin\Debug\netstandard2.0\Ml_TESTML.Model.deps.json
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.Model\bin\Debug\netstandard2.0\Ml_TESTML.Model.dll
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.Model\bin\Debug\netstandard2.0\Ml_TESTML.Model.pdb
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.Model\obj\Debug\netstandard2.0\Ml_TESTML.Model.csprojAssemblyReference.cache
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.Model\obj\Debug\netstandard2.0\Ml_TESTML.Model.csproj.CoreCompileInputs.cache
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.Model\obj\Debug\netstandard2.0\Ml_TESTML.Model.AssemblyInfoInputs.cache
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.Model\obj\Debug\netstandard2.0\Ml_TESTML.Model.AssemblyInfo.cs
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.Model\obj\Debug\netstandard2.0\Ml_TESTML.Model.dll
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.Model\obj\Debug\netstandard2.0\Ml_TESTML.Model.pdb

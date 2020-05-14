@@ -1,0 +1,16 @@
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.ConsoleApp\bin\Debug\netcoreapp2.1\Ml_TESTML.ConsoleApp.deps.json
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.ConsoleApp\bin\Debug\netcoreapp2.1\Ml_TESTML.ConsoleApp.runtimeconfig.json
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.ConsoleApp\bin\Debug\netcoreapp2.1\Ml_TESTML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.ConsoleApp\bin\Debug\netcoreapp2.1\Ml_TESTML.ConsoleApp.dll
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.ConsoleApp\bin\Debug\netcoreapp2.1\Ml_TESTML.ConsoleApp.pdb
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.ConsoleApp\bin\Debug\netcoreapp2.1\Ml_TESTML.Model.dll
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.ConsoleApp\bin\Debug\netcoreapp2.1\Ml_TESTML.Model.pdb
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.ConsoleApp\obj\Debug\netcoreapp2.1\Ml_TESTML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.ConsoleApp\obj\Debug\netcoreapp2.1\Ml_TESTML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.ConsoleApp\obj\Debug\netcoreapp2.1\Ml_TESTML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.ConsoleApp\obj\Debug\netcoreapp2.1\Ml_TESTML.ConsoleApp.AssemblyInfo.cs
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.ConsoleApp\obj\Debug\netcoreapp2.1\Ml_TESTML.ConsoleApp.csproj.CopyComplete
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.ConsoleApp\obj\Debug\netcoreapp2.1\Ml_TESTML.ConsoleApp.dll
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.ConsoleApp\obj\Debug\netcoreapp2.1\Ml_TESTML.ConsoleApp.pdb
+C:\Users\kyj\Desktop\Github\ML.NET\Ml_TEST\Ml_TESTML.ConsoleApp\obj\Debug\netcoreapp2.1\Ml_TESTML.ConsoleApp.genruntimeconfig.cache
